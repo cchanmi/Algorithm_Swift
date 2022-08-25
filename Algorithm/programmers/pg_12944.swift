@@ -8,6 +8,6 @@
 import Foundation
 
 func solution(_ arr:[Int]) -> Double {
-    let sum = arr.reduce(0, {$0 + $1} )
+    let sum = arr.reduce(0, {$0 + $1})
     return (Double(sum) / Double(arr.count))
 }
