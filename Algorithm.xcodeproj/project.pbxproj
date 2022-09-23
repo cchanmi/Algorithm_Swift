@@ -95,12 +95,12 @@
 		4A7D619C28A8EEC6007C3732 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				4A7D61A428A8EF63007C3732 /* programmers */,
+				4A7D61A428A8EF63007C3732 /* Programmers */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
 		};
-		4A7D61A428A8EF63007C3732 /* programmers */ = {
+		4A7D61A428A8EF63007C3732 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
 				4A7D61A528A8FEF3007C3732 /* pg_12901.swift */,
@@ -143,7 +143,7 @@
 				4A3D2A1F28DB4A2F00DFC1F2 /* pg_12921.swift */,
 				4AACB33728DDC653002338BC /* pg_12969.swift */,
 			);
-			path = programmers;
+			path = Programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
