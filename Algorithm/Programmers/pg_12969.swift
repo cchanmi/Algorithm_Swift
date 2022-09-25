@@ -18,12 +18,12 @@ for i in 1...b {
  5.43ms, 14.3MB
  */
 
-for _ in 1...b {
-    for _ in 1...a - 1 {
-        print("*", terminator: "")
-    }
-    print("*")
-}
+//for _ in 1...b {
+//    for _ in 1...a - 1 {
+//        print("*", terminator: "")
+//    }
+//    print("*")
+//}
 
 /*
  테스트 3, 4에서 틀린 이유는 찾아라.
