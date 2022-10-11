@@ -35,6 +35,7 @@
 		4A624CFB28F2A89B0020C42C /* A_01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_01.swift; sourceTree = "<group>"; };
 		4A624CFD28F2C88C0020C42C /* A_02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_02.swift; sourceTree = "<group>"; };
 		4A624CFF28F2EF2E0020C42C /* 3-3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3-3.swift"; sourceTree = "<group>"; };
+		4A624D0228F5541D0020C42C /* 12-7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-7.swift"; sourceTree = "<group>"; };
 		4A6842B228E6ECAD00F4FF0F /* pg_42840.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_42840.swift; sourceTree = "<group>"; };
 		4A6F9C4128C8610300051074 /* pg_12931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12931.swift; sourceTree = "<group>"; };
 		4A6F9C4328C867BB00051074 /* pg_12930.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12930.swift; sourceTree = "<group>"; };
@@ -87,6 +88,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4A624D0128F5540A0020C42C /* Implement */ = {
+			isa = PBXGroup;
+			children = (
+				4A624D0228F5541D0020C42C /* 12-7.swift */,
+			);
+			path = Implement;
+			sourceTree = "<group>";
+		};
 		4A7D619128A8EEC6007C3732 = {
 			isa = PBXGroup;
 			children = (
@@ -169,6 +178,7 @@
 			isa = PBXGroup;
 			children = (
 				4A8BC8CF28EABD6B004AF1BE /* Greedy */,
+				4A624D0128F5540A0020C42C /* Implement */,
 			);
 			path = SwiftForCodingTest;
 			sourceTree = "<group>";
