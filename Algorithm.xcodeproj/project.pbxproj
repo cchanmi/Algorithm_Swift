@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4A0FF4B128F959590005DDD5 /* 12-9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-9.swift"; sourceTree = "<group>"; };
 		4A1483C028BCF81700080EEA /* pg_12937.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12937.swift; sourceTree = "<group>"; };
 		4A1483C228BD074C00080EEA /* pg_12935.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12935.swift; sourceTree = "<group>"; };
 		4A1A08E628EC3FDC002DC3EF /* 3-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3-1.swift"; sourceTree = "<group>"; };
@@ -53,6 +54,7 @@
 		4A9C4FF328D2CEE2001DE9FA /* pg_87389.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_87389.swift; sourceTree = "<group>"; };
 		4A9C4FF528D2D380001DE9FA /* pg_70128.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_70128.swift; sourceTree = "<group>"; };
 		4AA02D8528CC950C00439B74 /* pg_12916.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12916.swift; sourceTree = "<group>"; };
+		4AABB57528FBF27E00C9F01D /* 12-8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12-8.swift"; sourceTree = "<group>"; };
 		4AACB33728DDC653002338BC /* pg_12969.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12969.swift; sourceTree = "<group>"; };
 		4AACB33D28DDECAA002338BC /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		4AACB33F28E01432002338BC /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
@@ -75,6 +77,8 @@
 		4AC7A90028EADA7400033075 /* 3-6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3-6.swift"; sourceTree = "<group>"; };
 		4ADEE4FD28D195F30098A304 /* pg_68935.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_68935.swift; sourceTree = "<group>"; };
 		4AF2E50D28E5B78B00AE15D8 /* pg_81301.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_81301.swift; sourceTree = "<group>"; };
+		4AF9A35729215EDC00474D3B /* boj.10825.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj.10825.swift; sourceTree = "<group>"; };
+		4AF9CD342924B9EE00623BF9 /* boj_18310.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj_18310.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +96,8 @@
 			isa = PBXGroup;
 			children = (
 				4A624D0228F5541D0020C42C /* 12-7.swift */,
+				4A0FF4B128F959590005DDD5 /* 12-9.swift */,
+				4AABB57528FBF27E00C9F01D /* 12-8.swift */,
 			);
 			path = Implement;
 			sourceTree = "<group>";
@@ -115,6 +121,7 @@
 		4A7D619C28A8EEC6007C3732 /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
+				4AF9CD332924B9A300623BF9 /* Boj */,
 				4A8BC8CE28EABAB8004AF1BE /* SwiftForCodingTest */,
 				4AACB33C28DDEC94002338BC /* DataStructure */,
 				4A7D61A428A8EF63007C3732 /* Programmers */,
@@ -177,6 +184,7 @@
 		4A8BC8CE28EABAB8004AF1BE /* SwiftForCodingTest */ = {
 			isa = PBXGroup;
 			children = (
+				4AF9A35629215EA400474D3B /* Sort */,
 				4A8BC8CF28EABD6B004AF1BE /* Greedy */,
 				4A624D0128F5540A0020C42C /* Implement */,
 			);
@@ -204,6 +212,22 @@
 				4AACB33F28E01432002338BC /* Queue.swift */,
 			);
 			path = DataStructure;
+			sourceTree = "<group>";
+		};
+		4AF9A35629215EA400474D3B /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sort;
+			sourceTree = "<group>";
+		};
+		4AF9CD332924B9A300623BF9 /* Boj */ = {
+			isa = PBXGroup;
+			children = (
+				4AF9A35729215EDC00474D3B /* boj.10825.swift */,
+				4AF9CD342924B9EE00623BF9 /* boj_18310.swift */,
+			);
+			path = Boj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
