@@ -50,6 +50,7 @@
 		4A7D61A528A8FEF3007C3732 /* pg_12901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12901.swift; sourceTree = "<group>"; };
 		4A7D61A728AA4D5B007C3732 /* pg_42748.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_42748.swift; sourceTree = "<group>"; };
 		4A8BC8D028EABD74004AF1BE /* 3-5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3-5.swift"; sourceTree = "<group>"; };
+		4A8DFC3B2939D62000039A9F /* boj_3460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj_3460.swift; sourceTree = "<group>"; };
 		4A94976828CAEBBE00061906 /* pg_12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12926.swift; sourceTree = "<group>"; };
 		4A9C4FF128D21569001DE9FA /* pg_77884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_77884.swift; sourceTree = "<group>"; };
 		4A9C4FF328D2CEE2001DE9FA /* pg_87389.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_87389.swift; sourceTree = "<group>"; };
@@ -228,6 +229,7 @@
 				4AF9A35729215EDC00474D3B /* boj.10825.swift */,
 				4AF9CD342924B9EE00623BF9 /* boj_18310.swift */,
 				4A4F5E1F2937187700CE87F2 /* boj_2501.swift */,
+				4A8DFC3B2939D62000039A9F /* boj_3460.swift */,
 			);
 			path = Boj;
 			sourceTree = "<group>";
@@ -420,6 +422,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -436,6 +439,7 @@
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
