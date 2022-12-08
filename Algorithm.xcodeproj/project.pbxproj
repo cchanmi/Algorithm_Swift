@@ -78,6 +78,7 @@
 		4AC73B3828D73901000FD182 /* pg_12925.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_12925.swift; sourceTree = "<group>"; };
 		4AC7A90028EADA7400033075 /* 3-6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3-6.swift"; sourceTree = "<group>"; };
 		4ADB63C5293DD06B0008D0CD /* boj_2460.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj_2460.swift; sourceTree = "<group>"; };
+		4ADB63C7293DDE8F0008D0CD /* boj_10870.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj_10870.swift; sourceTree = "<group>"; };
 		4ADEE4FD28D195F30098A304 /* pg_68935.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_68935.swift; sourceTree = "<group>"; };
 		4AF2E50D28E5B78B00AE15D8 /* pg_81301.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pg_81301.swift; sourceTree = "<group>"; };
 		4AF9A35729215EDC00474D3B /* boj.10825.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj.10825.swift; sourceTree = "<group>"; };
@@ -232,6 +233,7 @@
 				4A4F5E1F2937187700CE87F2 /* boj_2501.swift */,
 				4A8DFC3B2939D62000039A9F /* boj_3460.swift */,
 				4ADB63C5293DD06B0008D0CD /* boj_2460.swift */,
+				4ADB63C7293DDE8F0008D0CD /* boj_10870.swift */,
 			);
 			path = Boj;
 			sourceTree = "<group>";
